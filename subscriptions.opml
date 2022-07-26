@@ -10,7 +10,6 @@
             <outline xmlUrl="https://www.matter.vc/rss/" title="Matter" text="Matter" type="rss" htmlUrl="https://www.matter.vc/" />
             <outline type="rss" text="Paul Bradley Carr" htmlUrl="https://paulbradleycarr.com" xmlUrl="https://paulbradleycarr.com/feed/" title="Paul Bradley Carr" />
             <outline title="Female Founder Secrets" text="Female Founder Secrets" htmlUrl="https://femfosec.com/" xmlUrl="https://femfosec.com/rss/" type="rss" />
-            <outline type="rss" xmlUrl="https://rss.stratechery.passport.online/feed/rss/NfFtPJJc4LWCSdwwqpEqXj" title="Stratechery" text="Stratechery" htmlUrl="https://stratechery.com" />
             <outline text="Elizabeth Yin" xmlUrl="https://elizabethyin.com/feed/" htmlUrl="https://elizabethyin.com" type="rss" title="Elizabeth Yin" /></outline>
         <outline title="Climate" text="Climate">
             <outline title="Grist" htmlUrl="https://grist.org" type="rss" xmlUrl="https://grist.org/feed/" text="Grist" /></outline>
